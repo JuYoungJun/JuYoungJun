@@ -74,6 +74,10 @@
   </div>
 </div>
 
+<div align="center">
+<img height="700em" src="./profile-3d-contrib/profile-gitblock.svg" alt="GitHub Contributions">
+</div>
+
 <br>
 
 <div align="center">
