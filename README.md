@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <h1>📚 STACKS</h1>
+  <h1>📚 STACKS(공부중인 기술들)</h1>
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <br>
