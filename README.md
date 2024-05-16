@@ -69,8 +69,9 @@
 <div align="center">
   <h1>GitHub Stats</h1>
   <div style="display: flex; justify-content: space-around;">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JuYoungJun&show_icons=true&theme=radical">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuYoungJun&layout=compact">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=JuYoungJun&show_icons=true&theme=radical">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuYoungJun&layout=compact">
+    <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=JuYoungJun&theme=gotham" alt="JuYoungJun" />
   </div>
 </div>
 
