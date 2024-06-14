@@ -106,7 +106,7 @@
 
 <div align="center">
   <h1>🌟 Projects</h1>
-  <p><a href="[https://github.com/JuYoungJun/project1](https://github.com/JuYoungJun/Mini_Project/tree/main)">미니프로젝트입니다!</a> - 자바 GUI로 간단한 로또프로그램</p>
+  <p><a href="(https://github.com/JuYoungJun/Mini_Project">미니프로젝트입니다!</a> - 자바 GUI로 간단한 로또프로그램</p>
   <p><a href="https://github.com/JuYoungJun/project2">Project 2</a> - 간단한 프로젝트 설명.</p>
   <p><a href="https://github.com/JuYoungJun/project3">Project 3</a> - 간단한 프로젝트 설명.</p>
 </div>
