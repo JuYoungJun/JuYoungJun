@@ -1,17 +1,22 @@
-<h3 align = "center"> 아직 작성및 수정중입니다! </h3>
+<div align="center">
+  <a href="README_en.md">English</a> | <a href="README_ja.md">日本語</a>
+</div>
 
 <br>
 
+<h1 align="center">👋 소개 및 목표</h1>
+
 <div align="center">
-  <h1>👋 자기 소개 및 목표</h1>
-  <p>안녕하세요! 저는 주영준입니다. 현재 소프트웨어 개발을 공부하고 있는 학생입니다. 다양한 기술 스택을 배우고 있으며, 특히 백엔드 개발과 서버 관리, 모의해킹에 관심이 많습니다. 저의 목표는 안정적이고 확장 가능한 소프트웨어를 개발하는 것입니다.</p>
-  <p>미래에는 오픈 소스 프로젝트에 기여하고, 더 많은 사람들에게 도움이 되는 소프트웨어를 만드는 것이 꿈입니다. 항상 새로운 기술을 배우고 성장하는 개발자가 되기 위해 노력하고 있습니다.</p>
+  안녕하세요! 저는 주영준입니다. 소프트웨어 개발을 공부하는 학생입니다. 다양한 기술 스택을 배우고 있으며, 백엔드 개발, 서버 관리 및 윤리적 해킹에 관심이 많습니다. 안정적이고 확장 가능한 소프트웨어를 개발하는 것이 목표입니다.
+  <br>
+  <br>
+  앞으로 오픈 소스 프로젝트에 기여하고 더 많은 사람들에게 도움이 되는 소프트웨어를 만드는 것이 꿈입니다. 항상 새로운 기술을 배우고 성장하는 개발자가 되기 위해 노력하고 있습니다.
 </div>
 
 <br>
 
 <div align="center">
-  <h1>📚 STACKS(공부중인 기술들)</h1>
+  <h1>📚 스택</h1>
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <br>
@@ -37,7 +42,7 @@
 <br>
 
 <div align="center">
-  <h1>📚 Tools</h1>
+  <h1>📚 도구</h1>
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/eclipseide-782A90?style=for-the-badge&logo=eclipseide&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -47,7 +52,7 @@
 <br>
 
 <div align="center">
-  <h1>📚 관심있는 기술</h1>
+  <h1>📚 관심사</h1>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/metasploit-0A0A0A?style=for-the-badge&logo=metasploit&logoColor=white">
@@ -68,7 +73,7 @@
 <br>
 
 <div align="center">
-  <h1>GitHub Stats</h1>
+  <h1>GitHub 통계</h1>
   <div style="display: flex; justify-content: space-around;">
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=JuYoungJun&show_icons=true&theme=radical">
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuYoungJun&layout=compact">
@@ -83,7 +88,7 @@
 <br>
 
 <div align="center">
-  <h1>📫 About Me</h1>
+  <h1>📫 연락처</h1>
   <a href="mailto:kaks162@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
@@ -106,26 +111,26 @@
 <br>
 
 <div align="center">
-  <h1>🌟 Projects</h1>
-  <p><a href="https://github.com/JuYoungJun/Mini_Project">미니 프로젝트입니다!</a> - Java GUI로 만든 간단한 로또 프로그램</p>
-  <p><a href="https://github.com/JuYoungJun/project2">Project 2</a> - 간단한 프로젝트 설명.</p>
-  <p><a href="https://github.com/JuYoungJun/project3">Project 3</a> - 간단한 프로젝트 설명.</p>
+  <h1>🌟 프로젝트</h1>
+  <p><a href="https://github.com/JuYoungJun/Mini_Project">Mini Project</a> - 자바 GUI로 만든 간단한 복권 프로그램입니다.</p>
+  <p><a href="https://github.com/JuYoungJun/project2">Project 2</a> - 간단한 프로젝트 설명입니다.</p>
+  <p><a href="https://github.com/JuYoungJun/project3">Project 3</a> - 간단한 프로젝트 설명입니다.</p>
 </div>
 
 <br>
 
 <div align="center">
-  <h1>🌟 Repositories</h1>
-  <p><a href="https://github.com/JuYoungJun/Java">Java Repositorie</a> - 자바 관련 공부한 것을 올려놓은 레포지토리입니다!</p>
-  <p><a href="https://github.com/JuYoungJun/Html">Html Repositorie</a> - HTML 관련 공부한 것을 올려놓은 레포지토리입니다!</p>
-  <p><a href="https://github.com/JuYoungJun/Spring">Spring Repositorie</a> - Spring 관련 공부한 것을 올려놓은 레포지토리입니다!</p>
-  <p><a href="https://github.com/JuYoungJun/programmers">Programmers Repositorie</a> - 프로그래머스 문제 풀면서 그 코드들을 올려놓은 레포지토리입니다!</p>
+  <h1>🌟 레포지토리</h1>
+  <p><a href="https://github.com/JuYoungJun/Java">Java Repository</a> - Java 공부를 게시한 레포지토리입니다!</p>
+  <p><a href="https://github.com/JuYoungJun/Html">HTML Repository</a> - HTML 공부를 게시한 레포지토리입니다!</p>
+  <p><a href="https://github.com/JuYoungJun/Spring">Spring Repository</a> - Spring 공부를 게시한 레포지토리입니다!</p>
+  <p><a href="https://github.com/JuYoungJun/programmers">Programmers Repository</a> - Programmers 문제 해결 코드를 게시한 레포지토리입니다!</p>
 </div>
 
 <br>
 
 <div align="center">
-  <h1>🌟 Test Repositories(test를 위해 만든 레포 입니다)</h1>
+  <h1>🌟 테스트 레포지토리</h1>
   <p><a href="https://github.com/JuYoungJun/test">test</a></p>
   <p><a href="https://github.com/JuYoungJun/studey2">studey2</a></p>
   <p><a href="https://github.com/JuYoungJun/mission">mission</a></p>
@@ -137,10 +142,10 @@
 <br>
 
 <div align="center">
-  <h1>🏅 자격증 및 수료증</h1>
-  <p>자격증 1 - 발급 기관</p>
-  <p>자격증 2 - 발급 기관</p>
-  <p>자격증 3 - 발급 기관</p>
+  <h1>🏅 자격증</h1>
+  <p>Certificate 1 - 발행 기관</p>
+  <p>Certificate 2 - 발행 기관</p>
+  <p>Certificate 3 - 발행 기관</p>
 </div>
 
 <br>
@@ -149,25 +154,25 @@
   <h1>💼 경험</h1>
   <p>인턴십 1 - 회사명, 기간</p>
   <p>인턴십 2 - 회사명, 기간</p>
-  <p>프로젝트 경험 - 프로젝트명, 설명</p>
-  <p>봉사활동 경험 - 활동명, 설명</p>
+  <p>프로젝트 경험 - 프로젝트 이름, 설명</p>
+  <p>봉사활동 경험 - 활동 이름, 설명</p>
 </div>
 
 <br>
 
 <div align="center">
-  <h1>🏆 상훈 및 수상 경력</h1>
-  <p>수상 경력 1 - 수상 내역, 연도</p>
-  <p>수상 경력 2 - 수상 내역, 연도</p>
+  <h1>🏆 수상 경력</h1>
+  <p>수상 경력 1 - 수상 내역, 년도</p>
+  <p>수상 경력 2 - 수상 내역, 년도</p>
 </div>
 
 <br>
 
 <div align="center">
-  <h1>📢 기타 활동</h1>
-  <p>해커톤 참가 - 행사명, 연도</p>
-  <p>컨퍼런스 참석 - 행사명, 연도</p>
-  <p>세미나 발표 - 주제, 연도</p>
+  <h1>📢 활동</h1>
+  <p>해커톤 참여 - 행사 이름, 년도</p>
+  <p>컨퍼런스 참석 - 행사 이름, 년도</p>
+  <p>세미나 발표 - 주제, 년도</p>
 </div>
 
 <br>
