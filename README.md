@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-  <h1>📚 스택(공부중인거...)</h1>
+  <h1>📚 스택(공부중인거)</h1>
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <br>
@@ -47,6 +47,8 @@
   <img src="https://img.shields.io/badge/eclipseide-782A90?style=for-the-badge&logo=eclipseide&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 </div>
 
 <br>
