@@ -115,7 +115,7 @@
 <div align="center">
   <h1>🌟 프로젝트</h1>
   <p><a href="https://github.com/JuYoungJun/Mini_Project">Mini Project</a> - 자바 GUI로 만든 간단한 복권 프로그램입니다.</p>
-  <p><a href="https://github.com/JuYoungJun/project2">Project 2</a> - 팀프로젝트입니다.</p>
+  <p><a href="https://github.com/JuYoungJun/TeamProject">Project 2</a> - 팀프로젝트입니다.</p>
 </div>
 
 <br>
