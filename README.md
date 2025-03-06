@@ -117,25 +117,3 @@
   <p><a href="https://github.com/JuYoungJun/Mini_Project">Mini Project</a> - 자바 GUI로 만든 간단한 복권 프로그램입니다.</p>
   <p><a href="https://github.com/JuYoungJun/TeamProject">TeamProject</a> - 팀프로젝트입니다.</p>
 </div>
-
-<br>
-
-<div align="center">
-  <h1>🌟 레포지토리</h1>
-  <p><a href="https://github.com/JuYoungJun/Java">Java Repository</a> - Java 공부를 게시한 레포지토리입니다!</p>
-  <p><a href="https://github.com/JuYoungJun/Html">HTML Repository</a> - HTML 공부를 게시한 레포지토리입니다!</p>
-  <p><a href="https://github.com/JuYoungJun/Spring">Spring Repository</a> - Spring 공부를 게시한 레포지토리입니다!</p>
-  <p><a href="https://github.com/JuYoungJun/programmers">Programmers Repository</a> - Programmers 문제 해결 코드를 게시한 레포지토리입니다!</p>
-</div>
-
-<br>
-
-<div align="center">
-  <h1>🌟 테스트 레포지토리</h1>
-  <p><a href="https://github.com/JuYoungJun/test">test</a></p>
-  <p><a href="https://github.com/JuYoungJun/studey2">studey2</a></p>
-  <p><a href="https://github.com/JuYoungJun/mission">mission</a></p>
-  <p><a href="https://github.com/JuYoungJun/prmission2">mission2</a></p>
-  <p><a href="https://github.com/JuYoungJun/mission4">mission4</a></p>
-  <p><a href="https://github.com/JuYoungJun/Parsing-test">Parsing-test</a></p>
-</div>
