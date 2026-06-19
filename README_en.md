@@ -188,31 +188,31 @@ ai_plugin    = "/ai-plugin.json"
 <div align="center">
 
 <a href="https://github.com/JuYoungJun">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JuYoungJun&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&hide=issues&card_width=420" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JuYoungJun&show_icons=true&hide_border=true&hide_title=true&hide=issues&theme=tokyonight" />
 </a>
 <a href="https://github.com/JuYoungJun">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuYoungJun&layout=compact&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuYoungJun&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
 </a>
 
 <br/>
 
 <a href="https://git.io/streak-stats">
-  <img height="170" src="https://streak-stats.demolab.com/?user=JuYoungJun&hide_border=true&background=ffffff00&ring=2C5364&fire=2C5364&currStreakLabel=2C5364" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=JuYoungJun&hide_border=true&theme=tokyonight" />
 </a>
 
 <br/>
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuYoungJun&theme=default" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuYoungJun&theme=github_dark" />
 </a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuYoungJun&theme=default" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuYoungJun&theme=github_dark" />
 </a>
 
 <br/>
 
 <a href="https://github.com/JuYoungJun">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuYoungJun&theme=minimal&hide_border=true&area=true&radius=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuYoungJun&theme=tokyo-night&hide_border=true&area=true&radius=8" />
 </a>
 
 </div>
