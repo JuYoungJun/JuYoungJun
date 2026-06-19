@@ -4,11 +4,11 @@
 
 **Backend Junior Developer**  ·  Seoul, Korea
 
-낮에는 백엔드 주니어 개발자, 밤에는 취미로 풀스택 사이드를 굴립니다.<br/>
-믿을 만한 서버를 짓는 것 — 그게 제가 가장 즐거운 일입니다.
+Backend junior dev by day, hobbyist solo full-stack by night.<br/>
+What I enjoy most: building servers people can rely on.
 
 <a href="mailto:kaks162@gmail.com">Email</a>  ·
-<a href="README_en.md">English</a>
+<a href="README.md">한국어</a>
 
 </div>
 
@@ -27,28 +27,28 @@ class JuYoungJun:
     role:     str = "Backend Junior Developer"
     location: str = "Seoul, Korea"
 
-    # 취미로 만들고 운영 — 구름.kr (메이플 길드 커뮤니티, Cloudflare 풀스택)
-    hobby_project: str = "구름.kr — 100K+ LOC, 혼자 운영"
+    # Hobby — gureum.kr (MapleStory guild community, Cloudflare full-stack)
+    hobby_project: str = "구름.kr — 100K+ LOC, run solo for fun"
 
     current_focus: list[str] = field(default_factory=lambda: [
-        "Cloudflare 풀스택 사이드를 취미로 굴리는 중",
-        "운영에서 만난 문제를 매주 시스템에 녹이는 중",
+        "Running a Cloudflare full-stack side as a hobby",
+        "Folding what production teaches me back into the system, weekly",
     ])
 
     studying: list[str] = field(default_factory=lambda: [
-        "분산 시스템",
-        "DB 인덱스 / 쿼리 튜닝",
-        "관측성 — 구조화 로깅 · 분산 추적",
-        "테스트 · CI 강화",
+        "distributed systems",
+        "DB indexing / query tuning",
+        "observability — structured logging · distributed tracing",
+        "tests & CI",
     ])
 
     ask_me_about: list[str] = field(default_factory=lambda: [
-        "Spring / Python 백엔드 설계",
-        "1인 사이드 운영 — 인프라 · 비용 · 시간 관리",
-        "Cloudflare Workers + OpenNext 풀스택",
+        "Spring / Python backend design",
+        "Running a one-person side — infra, cost, time",
+        "Cloudflare Workers + OpenNext full-stack",
     ])
 
-    motto: str = "동작하는 것 → 신뢰할 수 있는 것 → 측정 가능한 것"
+    motto: str = "Make it work → make it trustworthy → make it measurable"
 
 
 me = JuYoungJun()
@@ -121,23 +121,23 @@ from principles import (
 )
 
 
-@measure_first       # 인덱스 추가 전 EXPLAIN, 캐시 도입 전 메트릭부터
-@idempotent          # 돈이 흐르는 길은 두 번 눌러도 안전해야
-@tests_are_prepaid   # 미루면 운영 시간에 이자가 붙어 돌아옵니다
-@kind_to_future_me   # 가장 좋은 주석은 잘 지은 이름
+@measure_first       # EXPLAIN before an index, metrics before a cache
+@idempotent          # anywhere money flows must be safe to double-click
+@tests_are_prepaid   # defer them, and they earn interest in production
+@kind_to_future_me   # the best comment is a good name
 def how_i_work() -> Trustworthy:
-    """동작하는 것 → 신뢰할 수 있는 것 → 측정 가능한 것."""
+    """Make it work → make it trustworthy → make it measurable."""
     ...
 ```
 
 <br/>
 
-### Production snapshot · <a href="https://구름.kr">구름.kr</a>
+### Production snapshot · <a href="https://구름.kr">gureum.kr</a>
 
-> 메이플스토리 길드 커뮤니티. **취미로 만들고 혼자 운영 중.**
+> MapleStory guild community. **Built and run solo, as a hobby.**
 
 ```toml
-# 구름.kr — Cloudflare 풀스택 · 취미로 1인 운영
+# 구름.kr — Cloudflare full-stack · hobby · run solo
 runtime = "OpenNext on Cloudflare Workers"
 loc     = "100K+"
 models  = 30   # Prisma
@@ -146,13 +146,13 @@ api     = 81   # Next.js App Router routes
 [bindings]
 D1 = "DB"        # maple-guild
 R2 = "uploads"   # maple-guild-uploads
-# Workers AI — staging/lab 한정 (SDXL Lightning 이미지 생성 실험)
+# Workers AI — staging/lab only (SDXL Lightning image-gen experiment)
 
 [crons]
-"* * * * *"   = "알림 발송"
-"0 18 * * *"  = "KST 03:00 공지 갱신"
-"15 18 * * *" = "KST 03:15 캐릭 갱신"
-"0 19 * * *"  = "KST 04:00 연무장 수집"
+"* * * * *"   = "notification dispatch"
+"0 18 * * *"  = "KST 03:00 - notice refresh"
+"15 18 * * *" = "KST 03:15 - character refresh"
+"0 19 * * *"  = "KST 04:00 - dojo collection"
 
 [stack]
 auth          = "bcrypt + session"
@@ -179,7 +179,7 @@ ai_plugin    = "/ai-plugin.json"
 
 ### What I'm building
 
-> _다음 공개는 준비 중. 잠깐만 기다려 주세요._
+> _The next reveal is in the works — stay tuned._
 
 <br/>
 
